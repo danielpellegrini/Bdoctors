@@ -1,0 +1,1 @@
+<carousel-component></carousel-component>
